@@ -1,40 +1,24 @@
 # ⚙️ Uribe System Core
 
-Welcome to my central system core. This repository documents my self-taught progression through operating systems, CLI workflows, troubleshooting, and system services.
+
+Welcome to my central system core. This repository documents my self-taught progression through operating systems, networking, CLI workflows, and system services.
 
 ---
 
-## 📊 Roadmap Overview
+## 📊 Core Modules Overview
 
-| Month  | Focus Area | Key Technologies & Concepts | Status |
-| :---:  | :--- | :--- | :---: |
-| **01** | Linux & CLI Fundamentals | WSL2, Directory Tree, File Ops, Searching, Nano | 🟢 Completed |
-| **02** | Deep Linux, Services & Diagnostics | Systemd, Users/Permissions, Resources, Bash Scripting | 🟡 In Progress |
-| **03** | Windows Fundamentals & PowerShell | Architecture, NTFS, Registry, Cmdlets, Troubleshooting | ⚪ Pending |
-
----
-
-## 🗓️ Month 01: Linux & CLI Fundamentals (Completed)
-
-| Module | Topic / Lab Scenario | Direct Access | Status |
-| :---: | :--- | :---: | :---: |
-| **W01** | WSL2 Setup & Navigation | [📁 View Lab](./month-01-linux-basics/week-01-wsl-setup/) | 🟢 Completed |
-| **W02** | Corporate File Structure & Backups | [📁 View Lab](./month-01-linux-basics/week-02-file-management/) | 🟢 Completed |
-| **W03** | Advanced Log Inspection & Search | [📁 View Lab](./month-01-linux-basics/week-03-search-inspection/) | 🟢 Completed |
-| **W04** | Terminal Editing & System Config | [📁 View Lab](./month-01-linux-basics/week-04-nano-configuration/) | 🟢 Completed |
+| Module | Focus Area | Key Technologies & Concepts | Status |
+| :---: | :--- | :--- | :---: |
+| **01** | Linux Fundamentals | Directory Tree, POSIX Permissions, File Ops, Searching, Nano | 🟢 Completed |
+| **02** | Linux Advanced SysAdmin | Systemd, Process Management, Advanced Log Analysis, Bash Scripting | 🟡 In Progress |
+| **03** | Networking Core | Subnetting, Routing, DNS/DHCP, Packet Capture, Network Diagnostics | ⚪ Pending |
+| **04** | Network Security & Firewalls | SSH Hardening, IPTables, UFW, Network Traffic Filtering | ⚪ Pending |
+| **05** | Windows & PowerShell | Active Directory Administration, NTFS, Registry, Cmdlets Automation | ⚪ Pending |
 
 ---
 
-## 🗓️ Month 02: Deep Linux, Services & Diagnostics
+## 📂 Repository Navigation
 
-| Module | Topic / Focus Area | Direct Access | Status |
-| :---: | :--- | :---: | :---: |
-| **01** | Advanced Users, Groups & POSIX Permissions | [📁 View Lab](./month-02-linux-deep/01-users-and-permissions/) | 🟡 In Progress |
-| **02** | Systemd Service Management & Diagnostics | 📁 Pending | ⚪ Pending |
-| **03** | Resource Management (CPU, RAM, Storage, Processes) | 📁 Pending | ⚪ Pending |
-| **04** | Bash Scripting & Basic Automation | 📁 Pending | ⚪ Pending |
-
-
-
-
-
+* 📂 [01-linux-fundamentals](./01-linux-fundamentals/) — Core Linux CLI operations and file management laboratories.
+* 📂 [02-linux-advanced](./02-linux-advanced/) — Deep system administration, diagnostics, and automation scripts.
+* 📂 [03-networking-core](./03-networking-core/) — Hands-on networking labs, protocol inspection, and traffic analysis.
