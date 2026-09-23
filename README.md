@@ -1,4 +1,8 @@
-# ⚙️ Uribe System Core
+# ⚙️ Uribe System Corecurl -s -X POST "https://api.telegram.org/botTU_TOKEN_curl -s -X POST "https://api.telegram.org/botTU_TOKEN_AQUI/sendMessage" \
+     -d "chat_id=TU_CHAT_ID_AQUI" \
+     -d "text=¡Hola! Este es mi primer mensaje desde la terminal de Linux."AQUI/sendMessage" \
+     -d "chat_id=TU_CHAT_ID_AQUI" \
+     -d "text=¡Hola! Este es mi primer mensaje desde la terminal de Linux."
 > **A hands-on technical logbook covering Linux Administration, Windows Systems, and Core Infrastructure.**
 
 Welcome to my central system core. This repository documents my self-taught progression through operating systems, CLI workflows, troubleshooting, and system services.
@@ -7,8 +11,8 @@ Welcome to my central system core. This repository documents my self-taught prog
 
 ## 📊 Roadmap Overview
 
-| Month | Focus Area | Key Technologies & Concepts | Status |
-| :---: | :--- | :--- | :---: |
+| Month  | Focus Area | Key Technologies & Concepts | Status |
+| :---:  | :--- | :--- | :---: |
 | **01** | Linux & CLI Fundamentals | WSL2, Directory Tree, File Ops, Searching, Nano | 🟢 Completed |
 | **02** | Deep Linux, Services & Diagnostics | Systemd, Users/Permissions, Resources, Bash Scripting | 🟡 In Progress |
 | **03** | Windows Fundamentals & PowerShell | Architecture, NTFS, Registry, Cmdlets, Troubleshooting | ⚪ Pending |
@@ -35,13 +39,7 @@ Welcome to my central system core. This repository documents my self-taught prog
 | **03** | Resource Management (CPU, RAM, Storage, Processes) | 📁 Pending | ⚪ Pending |
 | **04** | Bash Scripting & Basic Automation | 📁 Pending | ⚪ Pending |
 
----
 
-## 🗓️ Month 03: Windows Fundamentals & Operational PowerShell
 
-| Module | Topic / Focus Area | Direct Access | Status |
-| :---: | :--- | :---: | :---: |
-| **01** | Windows Architecture, NTFS & Registry | 📁 Pending | ⚪ Pending |
-| **02** | Object-Oriented PowerShell Basics | 📁 Pending | ⚪ Pending |
-| **03** | PowerShell Scripting for System Admin | 📁 Pending | ⚪ Pending |
-| **04** | Advanced Windows Troubleshooting | 📁 Pending | ⚪ Pending |
+
+
