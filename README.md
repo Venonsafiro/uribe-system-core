@@ -1,9 +1,4 @@
-# ⚙️ Uribe System Corecurl -s -X POST "https://api.telegram.org/botTU_TOKEN_curl -s -X POST "https://api.telegram.org/botTU_TOKEN_AQUI/sendMessage" \
-     -d "chat_id=TU_CHAT_ID_AQUI" \
-     -d "text=¡Hola! Este es mi primer mensaje desde la terminal de Linux."AQUI/sendMessage" \
-     -d "chat_id=TU_CHAT_ID_AQUI" \
-     -d "text=¡Hola! Este es mi primer mensaje desde la terminal de Linux."
-> **A hands-on technical logbook covering Linux Administration, Windows Systems, and Core Infrastructure.**
+# ⚙️ Uribe System Core
 
 Welcome to my central system core. This repository documents my self-taught progression through operating systems, CLI workflows, troubleshooting, and system services.
 
